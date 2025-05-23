@@ -1,2 +1,5 @@
 [credential]
   helper = 
+[user]
+	email = kevin.wissmer@mail.de
+	name = KevinKovac
